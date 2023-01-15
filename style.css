@@ -1,0 +1,20 @@
+h1{
+	color:green;
+	
+}
+body{
+	background-color:powderblue;
+	text-align:center;
+}
+div{
+	text-align:center;
+	color:blue;
+	flex:align;
+	font-family:align;
+}
+.galary{
+	margin:5px;
+	border:1px solid black;
+	float:left;
+	width:180px:
+}
